@@ -1,0 +1,37 @@
+# Built application files
+/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# Gradle files
+.gradle/
+local.properties
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Android Studio files
+.DS_Store
+/app/build/
+/app/release/
+
+# Log files
+*.log
+
+# Android Studio Navigation editor temp files
+.navigation/
+
+# Android Studio captures folder
+captures/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Other files
+*.hprof

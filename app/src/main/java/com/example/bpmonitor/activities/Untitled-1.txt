@@ -1,0 +1,15 @@
+app/
+├── java/
+│   └── com.example.bpmonitor/
+│       ├── activities/
+│       │   ├── MainActivity.java
+│       │   ├── UserInfoActivity.java
+│       │   └── MeasurementActivity.java
+│       ├── models/
+│       │   ├── UserInfo.java
+│       │   └── BPRecord.java
+│       ├── database/
+│       │   └── DatabaseHelper.java
+│       └── utils/
+│           ├── CsvExporter.java
+│           └── ReportGenerator.java
